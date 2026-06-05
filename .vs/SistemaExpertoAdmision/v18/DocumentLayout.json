@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lizy B\\Downloads\\SistemaExpertoAdmision\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B51CB6-F4C0-467E-ABC1-0D284D3DBCB2}|SistemaExpertoAdmision\\SistemaExpertoAdmision.csproj|c:\\users\\lizy b\\downloads\\sistemaexpertoadmision\\sistemaexpertoadmision\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0B51CB6-F4C0-467E-ABC1-0D284D3DBCB2}|SistemaExpertoAdmision\\SistemaExpertoAdmision.csproj|solutionrelative:sistemaexpertoadmision\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B51CB6-F4C0-467E-ABC1-0D284D3DBCB2}|SistemaExpertoAdmision\\SistemaExpertoAdmision.csproj|C:\\Users\\Lizy B\\Downloads\\SistemaExpertoAdmision\\sistemaexpertoadmision\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B51CB6-F4C0-467E-ABC1-0D284D3DBCB2}|SistemaExpertoAdmision\\SistemaExpertoAdmision.csproj|solutionrelative:sistemaexpertoadmision\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B51CB6-F4C0-467E-ABC1-0D284D3DBCB2}|SistemaExpertoAdmision\\SistemaExpertoAdmision.csproj|C:\\Users\\Lizy B\\Downloads\\SistemaExpertoAdmision\\sistemaexpertoadmision\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B51CB6-F4C0-467E-ABC1-0D284D3DBCB2}|SistemaExpertoAdmision\\SistemaExpertoAdmision.csproj|solutionrelative:sistemaexpertoadmision\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B51CB6-F4C0-467E-ABC1-0D284D3DBCB2}|SistemaExpertoAdmision\\SistemaExpertoAdmision.csproj|C:\\Users\\Lizy B\\Downloads\\SistemaExpertoAdmision\\sistemaexpertoadmision\\motorinferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B51CB6-F4C0-467E-ABC1-0D284D3DBCB2}|SistemaExpertoAdmision\\SistemaExpertoAdmision.csproj|solutionrelative:sistemaexpertoadmision\\motorinferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B51CB6-F4C0-467E-ABC1-0D284D3DBCB2}|SistemaExpertoAdmision\\SistemaExpertoAdmision.csproj|C:\\Users\\Lizy B\\Downloads\\SistemaExpertoAdmision\\sistemaexpertoadmision\\componentesse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B51CB6-F4C0-467E-ABC1-0D284D3DBCB2}|SistemaExpertoAdmision\\SistemaExpertoAdmision.csproj|solutionrelative:sistemaexpertoadmision\\componentesse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lizy B\\Downloads\\SistemaExpertoAdmision\\SistemaExpertoAdmision\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaExpertoAdmision\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lizy B\\Downloads\\SistemaExpertoAdmision\\SistemaExpertoAdmision\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaExpertoAdmision\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T15:02:50.845Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lizy B\\Downloads\\SistemaExpertoAdmision\\SistemaExpertoAdmision\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SistemaExpertoAdmision\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Lizy B\\Downloads\\SistemaExpertoAdmision\\SistemaExpertoAdmision\\Form1.Designer.cs",
+              "RelativeToolTip": "SistemaExpertoAdmision\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T15:02:49.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lizy B\\Downloads\\SistemaExpertoAdmision\\SistemaExpertoAdmision\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaExpertoAdmision\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lizy B\\Downloads\\SistemaExpertoAdmision\\SistemaExpertoAdmision\\Form1.cs",
+              "RelativeToolTip": "SistemaExpertoAdmision\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T15:02:50.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComponentesSE.cs",
+              "DocumentMoniker": "C:\\Users\\Lizy B\\Downloads\\SistemaExpertoAdmision\\SistemaExpertoAdmision\\ComponentesSE.cs",
+              "RelativeDocumentMoniker": "SistemaExpertoAdmision\\ComponentesSE.cs",
+              "ToolTip": "C:\\Users\\Lizy B\\Downloads\\SistemaExpertoAdmision\\SistemaExpertoAdmision\\ComponentesSE.cs",
+              "RelativeToolTip": "SistemaExpertoAdmision\\ComponentesSE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T15:02:50.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MotorInferencia.cs",
+              "DocumentMoniker": "C:\\Users\\Lizy B\\Downloads\\SistemaExpertoAdmision\\SistemaExpertoAdmision\\MotorInferencia.cs",
+              "RelativeDocumentMoniker": "SistemaExpertoAdmision\\MotorInferencia.cs",
+              "ToolTip": "C:\\Users\\Lizy B\\Downloads\\SistemaExpertoAdmision\\SistemaExpertoAdmision\\MotorInferencia.cs",
+              "RelativeToolTip": "SistemaExpertoAdmision\\MotorInferencia.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T15:02:50.845Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+C:\Users\julis\OneDrive\Documentos\SistemasExpertos2\SistemaExpertoAdmision\SistemaExpertoAdmision\bin\Debug\SistemaExpertoAdmision.exe.config
+C:\Users\julis\OneDrive\Documentos\SistemasExpertos2\SistemaExpertoAdmision\SistemaExpertoAdmision\bin\Debug\SistemaExpertoAdmision.exe
+C:\Users\julis\OneDrive\Documentos\SistemasExpertos2\SistemaExpertoAdmision\SistemaExpertoAdmision\bin\Debug\SistemaExpertoAdmision.pdb
+C:\Users\julis\OneDrive\Documentos\SistemasExpertos2\SistemaExpertoAdmision\SistemaExpertoAdmision\obj\Debug\SistemaExpertoAdmision.csproj.AssemblyReference.cache
+C:\Users\julis\OneDrive\Documentos\SistemasExpertos2\SistemaExpertoAdmision\SistemaExpertoAdmision\obj\Debug\SistemaExpertoAdmision.Form1.resources
+C:\Users\julis\OneDrive\Documentos\SistemasExpertos2\SistemaExpertoAdmision\SistemaExpertoAdmision\obj\Debug\SistemaExpertoAdmision.Properties.Resources.resources
+C:\Users\julis\OneDrive\Documentos\SistemasExpertos2\SistemaExpertoAdmision\SistemaExpertoAdmision\obj\Debug\SistemaExpertoAdmision.csproj.GenerateResource.cache
+C:\Users\julis\OneDrive\Documentos\SistemasExpertos2\SistemaExpertoAdmision\SistemaExpertoAdmision\obj\Debug\SistemaExpertoAdmision.csproj.CoreCompileInputs.cache
+C:\Users\julis\OneDrive\Documentos\SistemasExpertos2\SistemaExpertoAdmision\SistemaExpertoAdmision\obj\Debug\SistemaExpertoAdmision.exe
+C:\Users\julis\OneDrive\Documentos\SistemasExpertos2\SistemaExpertoAdmision\SistemaExpertoAdmision\obj\Debug\SistemaExpertoAdmision.pdb
+C:\Users\Lizy B\Downloads\SistemaExpertoAdmision\SistemaExpertoAdmision\bin\Debug\SistemaExpertoAdmision.exe.config
+C:\Users\Lizy B\Downloads\SistemaExpertoAdmision\SistemaExpertoAdmision\bin\Debug\SistemaExpertoAdmision.exe
+C:\Users\Lizy B\Downloads\SistemaExpertoAdmision\SistemaExpertoAdmision\bin\Debug\SistemaExpertoAdmision.pdb
+C:\Users\Lizy B\Downloads\SistemaExpertoAdmision\SistemaExpertoAdmision\obj\Debug\SistemaExpertoAdmision.csproj.AssemblyReference.cache
+C:\Users\Lizy B\Downloads\SistemaExpertoAdmision\SistemaExpertoAdmision\obj\Debug\SistemaExpertoAdmision.Form1.resources
+C:\Users\Lizy B\Downloads\SistemaExpertoAdmision\SistemaExpertoAdmision\obj\Debug\SistemaExpertoAdmision.Properties.Resources.resources
+C:\Users\Lizy B\Downloads\SistemaExpertoAdmision\SistemaExpertoAdmision\obj\Debug\SistemaExpertoAdmision.csproj.GenerateResource.cache
+C:\Users\Lizy B\Downloads\SistemaExpertoAdmision\SistemaExpertoAdmision\obj\Debug\SistemaExpertoAdmision.csproj.CoreCompileInputs.cache
+C:\Users\Lizy B\Downloads\SistemaExpertoAdmision\SistemaExpertoAdmision\obj\Debug\SistemaExpertoAdmision.exe
+C:\Users\Lizy B\Downloads\SistemaExpertoAdmision\SistemaExpertoAdmision\obj\Debug\SistemaExpertoAdmision.pdb
